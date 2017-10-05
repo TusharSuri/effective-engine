@@ -1,2 +1,2 @@
 # effective-engine
- enter fro various web things,r language,android,c,c++
+ Enter for various web things,r language,android,c,c++
